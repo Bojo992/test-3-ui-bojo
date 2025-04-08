@@ -73,7 +73,7 @@ const Chat = () => {
 
     return (
         <div>
-            <div className="relative h-16 flex items-center bg-green-400">
+            <div className="relative h-16 flex items-center bg-blue-400">
                 <div className="absolute left-1/2 transform -translate-x-1/2 text-3xl font-semibold">
                     Chat
                 </div>
